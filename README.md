@@ -12,3 +12,7 @@ EcoDrop is a web application that helps citizens find nearby recycling collectio
 - TypeScript
 - Node.js
 - PostgreSQL
+
+
+
+> This project is currently under development.
